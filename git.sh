@@ -1,3 +1,3 @@
 git add .
-git commit -m "$1" &> /dev/null
+git commit -m "${1:-"Update README.md"}" &> /dev/null
 git push
