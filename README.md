@@ -10,7 +10,7 @@
 
 - 14 years old.
 - Self-taught.
-- Musician
+- Musician.
 
 ## Activity
 
